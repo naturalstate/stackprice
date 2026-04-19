@@ -62,7 +62,7 @@ open-source filter.
 ## From Scratch Builder
 
 <div align="center">
-  <img src="screenshot-builder.png" alt="From Scratch Builder" width="100%" />
+  <img src="scratch_builder.png" alt="From Scratch Builder" width="60%" />
   <p><em>Start with a quantity, pick what it represents, and get ranked pricing results instantly.</em></p>
 </div>
 

@@ -104,7 +104,7 @@ of the full component breakdown.
 ## Cloud Hosting
 
 <div align="center">
-  <img src="screenshot-hosting-picker.png" alt="Hosting Picker" width="100%" />
+  <img src="hosting_picker.png" alt="Hosting Picker" width="80%" />
   <p><em>Hosting Picker — answer four questions, get a ranked list of platforms that fit.</em></p>
 </div>
 

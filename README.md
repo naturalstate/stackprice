@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="screenshot-hero.png" alt="StackPrice — Know what your stack costs" width="100%" />
+  <img src="stackprice_logo.png" alt="StackPrice — Know what your stack costs" width="100%" />
 
   <h1>StackPrice</h1>
   <p><strong>Know what your stack costs.</strong></p>

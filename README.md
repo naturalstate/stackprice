@@ -1,10 +1,9 @@
 <div align="center">
   <img src="stackprice_logo.png" alt="StackPrice — Know what your stack costs" width="40%%" />
 
-  <h1>StackPrice</h1>
-  <p><strong>Know what your stack costs.</strong></p>
+ 
   <p>
-    Compare pricing across every layer of your tech stack — security, cloud,
+    Stackprice - Compare pricing across every layer of your tech stack — security, cloud,
     AI, databases, dev tools, and more. No sign-up. No backend. Just numbers.
   </p>
 

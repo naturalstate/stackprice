@@ -85,7 +85,7 @@ Earlier steps stay visible and editable at all times.
 ## Security Packages
 
 <div align="center">
-  <img src="screenshot-packages.png" alt="Security Packages" width="100%" />
+  <img src="security_packages.png" alt="Security Packages" width="80%" />
   <p><em>Pre-built solution packages from Starter to Full Protection, with per-component OSS alternatives.</em></p>
 </div>
 
